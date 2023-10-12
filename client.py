@@ -3,7 +3,7 @@ import threading
 
 username = input("Ingrese un nombre de usuario: ")
 
-host = '127.0.0.1'
+host = '200.13.4.198'
 port = 55555
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
